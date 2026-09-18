@@ -1,2 +1,1 @@
-# social-hub
-This is a GitHub page will contain all the details of my social media work.
+# Social Hub\n\nPersonal GitHub Pages website for Biswajit Das.\n\nStructure: Home → Social Links → Projects → Resources → Travel → Fitness → About → Contact\n\nLinks and Google Drive resources are centralized in script.js. Add Google Drive share URLs to the resource entries.\n\nGitHub Pages: Settings → Pages → Deploy from a branch → main → /(root)\n\nExpected URL: https://imbiswajitdas.github.io/social-hub/
